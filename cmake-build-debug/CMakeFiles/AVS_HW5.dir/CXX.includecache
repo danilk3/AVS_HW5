@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dahil/CLionProjects/AVS_HW5/src/Painting/Painting.h
+../Visitor/visitor.h
+C:/Users/dahil/CLionProjects/AVS_HW5/src/Visitor/visitor.h
+queue
+-
+
+C:/Users/dahil/CLionProjects/AVS_HW5/src/Visitor/visitor.h
+mutex
+-
+
+C:/Users/dahil/CLionProjects/AVS_HW5/src/main.cpp
+iostream
+-
+vector
+-
+thread
+-
+Visitor/visitor.h
+C:/Users/dahil/CLionProjects/AVS_HW5/src/Visitor/visitor.h
+Painting/Painting.h
+C:/Users/dahil/CLionProjects/AVS_HW5/src/Painting/Painting.h
+
